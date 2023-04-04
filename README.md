@@ -8,7 +8,7 @@ to get color scheme and render them according to the mode or color seed selected
 
 # Project Live URL
 
-https://olakad13.github.io/
+https://olakad13.github.io/color_scheme
 
 # Technologies used
 -HTML
